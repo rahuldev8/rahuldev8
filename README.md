@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Machine Learning, Java, DSA**
+- 💬 Ask me about **Java, DSA, Web3**
 
 - 📫 How to reach me **devhereforcoding@gmail.com**
 
