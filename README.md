@@ -18,6 +18,12 @@
 
 - 📫 How to reach me **devhereforcoding@gmail.com**
 
+<p>
+<a href="https://www.codewars.com/users/Dev-jr-8">
+<img height="26px" src="https://www.codewars.com/users/Dev-jr-8/badges/micro">
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
