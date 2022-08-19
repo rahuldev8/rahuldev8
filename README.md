@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A Noob Programmer trying to achieve Something !</h3>
-<img align="right" alt="Coding" width="450" src="Images/68747470733a2f2f7468756d62732e-unscreen.gif">
+<img align="right" alt="Coding" width="450" src="Images/Profile_coding_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jr-8&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jr-8" /> </p>
 
