@@ -34,6 +34,6 @@
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-jr-8&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=1b2731&text_color=ffffff&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog" alt="dev-jr-8">
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="dev-jr-8" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=solarized-dark&hide_border=true" alt="dev-jr-8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-jr-8&hide_border=true&theme=solarized-dark" alt="dev-jr-8" /></p>
