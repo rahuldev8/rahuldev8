@@ -31,10 +31,10 @@
 
 
 <p align="right">
-<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-jr-8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast&hide=procfile&exclude_repo=dice,blog" alt="dev-jr-8">
+<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-jr-8&show_icons=true&locale=en&layout=compact&hide_border=true&theme=blue-green&hide=procfile&exclude_repo=dice,blog" alt="dev-jr-8">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-jr-8&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDB707)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-jr-8&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDB707)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="dev-jr-8" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="dev-jr-8" /></p>
 
