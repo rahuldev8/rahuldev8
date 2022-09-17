@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on `Web Development`
 
-- 💬 Ask me about `Java, C, C++, DSA, Web3`
+- 💬 Ask me about `Java, C, C++, DSA`
 
 <p>
 <a href="https://www.codewars.com/users/Dev-jr-8">
