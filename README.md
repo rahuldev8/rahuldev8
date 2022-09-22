@@ -29,7 +29,7 @@
 
 
 <p align="right">
-<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jr-8&layout=compact&hide_border=true&theme=blue-green&langs_count=10&hide=procfile&exclude_repo=dice,blog">
+<img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jr-8&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-jr-8&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDB707)
