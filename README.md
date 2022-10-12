@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on `Java` and `Servlet`
 
-- 🌱 I’m currently learning `DSA` and `API`
+- 🌱 I’m currently learning `DSA` and `Docker`
 
 - 👯 I’m looking to collaborate on `Web Development`
 
