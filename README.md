@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A Undergraduate Student, Always keen to Learn New Technologies</h3>
+<h3 align="center">An Undergraduate Student, Always keen to Learn New Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952gzl3t8c0da568bp3qtkuavwetl3u0r8jqjr345f0&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jr-8&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jr-8" /> </p>
