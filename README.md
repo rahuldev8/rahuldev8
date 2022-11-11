@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning `DSA` and `Docker`
 
-- 👯 I’m looking to collaborate on `Web Development`
-
 - 💬 Ask me about `Java, C, C++, DSA`
 
 <p>
