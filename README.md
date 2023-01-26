@@ -62,7 +62,7 @@
 ### 🛠️ My Project
 <a href="https://stunning-spark.onrender.com/" target="_blank"> <img alt="Stunning Spark" src="Images/Stunning_Spark_Git_Animated_Gif.gif" height="400" width="400" align="center"> </a>
 
-<p align="right">
+<p align="left">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jr-8&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
 </p>
 
@@ -70,5 +70,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-jr-8&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DDB707)
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="dev-jr-8" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dev-jr-8&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="dev-jr-8" /></p>
 
