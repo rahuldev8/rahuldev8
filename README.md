@@ -18,11 +18,13 @@
 
 
 <div align = "center">
- <h2>Coding Profiles</h2>
+ <h2><i>Coding Profiles</h2>
    <a href="https://leetcode.com/devhereforcoding/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Dev_jr@leetcode" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devherefosl3p/practice" target="blank"><img align="center" src="https://img.icons8.com/color/480/GeeksforGeeks.png" alt="thesanmaynemo" width="50" /></a>
-<a href="https://instagram.com/sanmay_nemo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sanmay_nemo" height="30" width="40" /></a>
- <a href="https://instagram.com/sanmay_nemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanmay_nemo" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/devherefosl3p/practice" target="blank"><img align="center" src="https://img.icons8.com/color/480/GeeksforGeeks.png" alt="Dev_jr@GFGPractice" width="50" /></a>
+<a href="https://www.hackerrank.com/dev_jr_8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Dev_jr@HackerRank" width="50" /></a>
+ <a href="https://www.codechef.com/users/dev_jr" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Dev_jr@Codechef" width="50" /></a>
+  <a href="https://www.codewars.com/users/Dev-jr-8" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="Dev_jr@Codewars" width="50" /></a>
+  <a href="https://www.interviewbit.com/profile/dev-jr" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Dev_jr@InterviewBit" width="50" /></a>
 
  </div>
 
