@@ -63,7 +63,7 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ### 🛠️ My Project
-<a href="https://stunning-spark.onrender.com/" target="_blank"> <img alt="Stunning Spark" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://stunning-spark.onrender.com/" target="_blank"> <img alt="Stunning Spark" src="Images/Stunning_Spark_Git_Animated_Gif.gif" height="400" width="400" align="center"> </a>
 
 <p align="right">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jr-8&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
