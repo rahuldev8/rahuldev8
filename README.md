@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">An Undergraduate Student, Always keen to Learn New Technologies</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952gzl3t8c0da568bp3qtkuavwetl3u0r8jqjr345f0&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="400" src="https://freesvg.org/img/computers.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-jr-8&label=Profile%20views&color=0e75b6&style=flat" alt="dev-jr-8" /> </p>
 
@@ -16,11 +16,22 @@
 
 - ❤️ Currently contributing to `Open-Source`
 
-<p>
+
+<div align = "left">
+ <h2>Coding Profiles</h2>
+  <a href="https://leetcode.com/devhereforcoding/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Rahul_Dev_jr@leetcode" width="50" /></a>
+  
+  <a href="https://leetcode.com/devhereforcoding/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Rahul_Dev_jr@leetcode" width="50" /></a>
+
+ </div>
+
+
+  
+  
+
 <a href="https://www.codewars.com/users/Dev-jr-8">
 <img height="26px" src="https://www.codewars.com/users/Dev-jr-8/badges/micro">
 </a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,6 +52,13 @@
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 
 
