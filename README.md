@@ -23,9 +23,8 @@
 <a href="https://auth.geeksforgeeks.org/user/devherefosl3p/practice" target="blank"><img align="center" src="https://img.icons8.com/color/480/GeeksforGeeks.png" alt="Dev_jr@GFGPractice" width="50" /></a>
 <a href="https://www.hackerrank.com/dev_jr_8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="Dev_jr@HackerRank" width="50" /></a>
  <a href="https://www.codechef.com/users/dev_jr" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Dev_jr@Codechef" width="50" /></a>
-  <a href="https://www.codewars.com/users/Dev-jr-8" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="Dev_jr@Codewars" width="50" /></a>
-  <a href="https://www.interviewbit.com/profile/dev-jr" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Dev_jr@InterviewBit" width="50" /></a>
-
+  <a href="https://www.codewars.com/users/Dev-jr-8" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="Dev_jr@Codewars" width="45" /></a>
+  <a href="https://www.interviewbit.com/profile/dev-jr" target="blank"><img align="center" src="Images/interview_bit_logo.png" alt="Dev_jr@InterviewBit" width="50" /></a>
  </div>
 
 
@@ -63,7 +62,8 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
+### 🛠️ My Project
+<a href="https://stunning-spark.onrender.com/" target="_blank"> <img alt="Stunning Spark" src="./projects/artistify.svg" height="68" align="left"> </a>
 
 <p align="right">
 <img alt="lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jr-8&layout=compact&hide_border=true&bg_color=1b2731&text_color=ebdfe2&title_color=eb1622&langs_count=10&hide=procfile&exclude_repo=dice,blog">
