@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on `Java` and `Servlet`
+- 🔭 I’m currently working on `Java` 
 
-- 🌱 I’m currently learning `DSA` and `Docker`
+- 🌱 I’m currently learning `DSA` 
 
 - 💬 Ask me about `Java, C, C++, DSA`
 
