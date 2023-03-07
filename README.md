@@ -1,10 +1,7 @@
 
 
-<h1 align="center">
- <div style="position: absolute;display: flex; align-items: center;     padding-right: 70px;">
-<a ><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=180&height=40&lines=Vanakkam;Hello;Hola;Bonjour" /></a>
-  </div> 
- I'm Rahul  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"></h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
+<a><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=34&duration=4000&pause=1500&color=C9D1D9&vCenter=true&width=350&height=40&lines=Vanakkam%2C+I'm+Rahul;Hello%2C+I'm+Rahul;Hola%2C+I'm+Rahul;Bonjour%2C+I'm+Rahul"/></a></h1>
 
 <div align="center">
 <a ><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=F70909&center=true&width=700&lines=An+Undergraduate+Student%2C+Always+keen+to+Learn+New+Technologies;%E2%9D%A4%EF%B8%8FData+Structures+and+Algorithms%E2%9D%A4%EF%B8%8F;%F0%9F%92%AC+Java+%7C+C+%F0%9F%92%AC;%F0%9F%9B%A0%EF%B8%8F+STUNNING+SPARK+%F0%9F%9B%A0%EF%B8%8F;Open+Source+%E2%9D%A4%EF%B8%8F" /></a>
