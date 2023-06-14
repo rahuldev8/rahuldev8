@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning `DSA` 
 
-- 💬 Ask me about `Java, C, DSA`
+- 💬 Ask me about `Java && DSA`
 
 - ❤️ Currently contributing to `Open-Source`
 
