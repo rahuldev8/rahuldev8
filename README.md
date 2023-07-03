@@ -35,7 +35,7 @@
 
   <h3>Connect With Me 💬❤</h3>
   <a href="https://www.linkedin.com/in/rahul-sundararaj-016536214/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="Rahul@linkedin" width="45" height="45" /></a> &nbsp
-  <a href="https://www.instagram.com/rahuldev_8_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Rahul@Instagram" width="45" height="45" /></a>
+  <a href="https://www.instagram.com/simplyrahul8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Rahul@Instagram" width="45" height="45" /></a>
 
 
  <div align = "center">
